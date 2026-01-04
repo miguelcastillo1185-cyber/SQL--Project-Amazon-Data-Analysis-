@@ -8,25 +8,25 @@ In this project, we will analyze the sales and customer data to find insights th
 
  Dataset
 The dataset contains :
-- Orders
-- Customers
-- Products
-- Sales and profit data
-- geographic information
-- sales metrics
+ Orders
+ Customers
+Products
+ Sales and profit data
+ geographic information
+sales metrics
 
 Tools Used
-- SQL (SQLite / Deaver)
-- Google Sheets
+SQL 
+ Google Sheets
 
  data preparation:
 
 To make this project easier, we took the original data and separated it into the following tables :
 
-- Orders
-- Customers
-- Products
-- Sales and profit data
+ Orders
+ Customers
+Products
+ Sales and profit data
 
 we connected them using primary and foreign keys to create a relational database that allows for more complex analysis
 
