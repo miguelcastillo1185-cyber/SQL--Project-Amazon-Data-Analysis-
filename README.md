@@ -1,13 +1,12 @@
 # SQL--Project-Amazon-Data-Analysis-
 this analysis is made to find isight on this public data from amazon and it sales, location, profit 
 
+ Sales & Customer Analysis Project
 
-# Sales & Customer Analysis Project
-
-## Project Overview
+ Project Overview
 In this project, we will analyze the sales and customer data to find insights that can help our business grow
 
-## Dataset
+ Dataset
 The dataset contains :
 - Orders
 - Customers
@@ -16,11 +15,11 @@ The dataset contains :
 - geographic information
 - sales metrics
 
-## Tools Used
+Tools Used
 - SQL (SQLite / Deaver)
 - Google Sheets
 
-## data preparation:
+ data preparation:
 
 To make this project easier, we took the original data and separated it into the following tables :
 
@@ -31,7 +30,7 @@ To make this project easier, we took the original data and separated it into the
 
 we connected them using primary and foreign keys to create a relational database that allows for more complex analysis
 
-## Business Questions
+ Business Questions
 
 This project aims to answer the following business questions:
 
